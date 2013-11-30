@@ -1,4 +1,3 @@
-audiofile_core
-==============
+# Audiofile Core
 
-Audiofile core framework
+Audiofile Core Framework
